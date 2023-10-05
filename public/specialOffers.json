@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+        "image": "https://websitedemos.net/gift-shop-04/wp-content/uploads/sites/919/2021/07/personalized-03.jpg",
+        "name": "Clothing",
+        "title": "Green 100% Cotton Personalized T-Shirt",
+        "price": "12.50",
+        "current_price": "158.00"
+    },
+    {
+      "id": 2,
+        "image": "https://websitedemos.net/gift-shop-04/wp-content/uploads/sites/919/2021/07/wallet-01.jpg",
+        "name": "Wallets",
+        "title": "Men’s Black Sport Wallet",
+        "price": "59.99",
+        "current_price": "49.99"
+    },
+    {
+      "id": 3,
+        "image": "https://websitedemos.net/gift-shop-04/wp-content/uploads/sites/919/2021/07/stationery-01.jpg",
+        "name": "Office & Stationary",
+        "title": "Office Notebook And Pencil",
+        "price": "49.95",
+        "current_price": "29.99"
+    },
+    {
+      "id": 4,
+        "image": "https://websitedemos.net/gift-shop-04/wp-content/uploads/sites/919/2021/07/wallet-02.jpg",
+        "name": "Wallets",
+        "title": "Red Real Leather Wallet",
+        "price": "$49.99",
+        "current_price": "39.99"
+    },
+    {
+      "id": 5,
+        "image": "https://websitedemos.net/gift-shop-04/wp-content/uploads/sites/919/2021/07/stationery-02.jpg",
+        "name": "Office & Stationary",
+        "title": "Promotional Contour Standard Ballpen",
+        "price": "$199.99",
+        "current_price": "179.99"
+    },
+    {
+      "id": 6,
+        "image": "https://websitedemos.net/gift-shop-04/wp-content/uploads/sites/919/2021/07/toy-01.jpg",
+        "name": "Toys",
+        "title": "Kid Cartoon Character Toy",
+        "price": "$129.00",
+        "current_price": "119.00"
+    },
+    {
+      "id": 7,
+        "image": "https://websitedemos.net/gift-shop-04/wp-content/uploads/sites/919/2021/08/handbag-01.jpg",
+        "name": "Handbags",
+        "title": "Pink Quilted Cross Body Handbag",
+        "price": "$249.99",
+        "current_price": "219.99"
+    },
+    {
+      "id": 8,
+        "image": "https://websitedemos.net/gift-shop-04/wp-content/uploads/sites/919/2021/08/jewelry-04.jpg",
+        "name": "Jewelries",
+        "title": "Rose Gold And Diamond Ringr",
+        "price": "$349.00",
+        "current_price": "99.00"
+    }
+  ]
+  
